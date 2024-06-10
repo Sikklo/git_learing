@@ -2,7 +2,7 @@
 PS C:\Users\morke\Dropbox\PC\Desktop\layout_practice> git config --global user.name "sikklo"
 git : 無法辨識 'git' 詞彙是否為 Cmdlet、函數、指令檔或可執行程式的名稱。請檢查名稱拼字是否正確，如果包含路徑的話，請確認路徑是否正
 確，然後再試一次。
-位於 線路:100 字元:100
+位於 線路:1 字元:1
 + ~~~
     + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
     + FullyQualifiedErrorId : CommandNotFoundException
